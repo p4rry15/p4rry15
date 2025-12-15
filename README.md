@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hola, soy Carlos Parriego Urbano 👋
 
-<!--
-**p4rry15/p4rry15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+**Estudiante de ASIR & Entusiasta de la Informática**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un joven de 18 años apasionado por la tecnología. Actualmente me estoy formando como **Técnico en Administración de Sistemas Informáticos en Red (ASIR)**. Mi objetivo principal es comprender a fondo cómo funcionan los sistemas, desde la infraestructura de red hasta la optimización del rendimiento.
+
+🔭 **Actualmente trabajando en:** Proyectos de administración de redes y desarrollo web básico.
+🌱 **Aprendiendo sobre:** Infraestructura de redes, Hardware y optimización de sistemas.
+🧠 **Filosofía:** Mantener la mente ágil y el cuerpo activo es clave para resolver cualquier desafío técnico.
+💡 **Meta:** Aplicar mis conocimientos técnicos en proyectos creativos.
+
+---
+
+### 🛠️ Intereses Técnicos
+
+**Sistemas:** Administración y configuración.
+**Redes:** VLANs, Switching, Routing.
+**Hardware:** Montaje y configuración de equipos.
+**Web:** HTML5, CSS3.
+
+---
+
+### ⚡ Hobbies e Intereses Personales
+
+Cuando no estoy delante de una pantalla configurando redes o programando, me encontrarás disfrutando de mis otras pasiones:
+
+🏃‍♂️ **Deporte:** Creo firmemente en mens sana in corpore sano.
+🎣 **Pesca:** Paciencia y constancia.
+🌍 **Viajar:** Especialmente visitar lugares históricos como Toledo.
+🌅 **Naturaleza:** Disfrutar de atardeceres y la playa.
+
+</div>
