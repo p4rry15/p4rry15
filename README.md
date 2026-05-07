@@ -68,3 +68,48 @@ Gracias a este proyecto estoy aplicando conocimientos de:
 
 ```txt
 HTML · CSS · JavaScript · GitHub · Netlify · Responsive Design
+
+3dAura me está ayudando a llevar lo aprendido fuera de una práctica de clase y aplicarlo en un entorno más real.
+
+🛠️ Tecnologías y herramientas
+HTML · CSS · JavaScript · SQL · MySQL · PGAdmin
+Windows Server · Linux/Ubuntu · VirtualBox
+Redes LAN · IPv4 · VLANs · TCP/IP
+GitHub · Netlify
+🎯 Mi objetivo
+
+Mi objetivo es seguir creciendo dentro del sector informático, ganar experiencia real y construir un perfil profesional sólido.
+
+Quiero orientarme especialmente hacia:
+
+administración de sistemas
+redes
+ciberseguridad
+soporte técnico
+proyectos tecnológicos reales
+
+Siempre intentando trabajar con orden, constancia y ganas de mejorar.
+
+🌱 Más allá de la informática
+
+Aparte de la informática y mis proyectos, me gusta desarrollarme continuamente como persona.
+
+Valoro mucho:
+
+pasar tiempo con mis seres queridos ❤️
+viajar y conocer sitios nuevos 🌍
+desconectar cuando lo necesito 🧘
+dedicar tiempo a mí mismo
+mantener una mentalidad activa y curiosa
+
+Creo que crecer profesionalmente también implica crecer personalmente.
+
+📫 Contacto
+
+📩 Correo: parrycpu@gmail.com
+
+🔗 LinkedIn: Carlos Parriego Urbano
+
+💻 GitHub: p4rry15
+
+✨ Gracias por visitar mi perfil
