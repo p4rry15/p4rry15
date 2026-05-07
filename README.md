@@ -1,34 +1,70 @@
-### Hola, soy Carlos Parriego Urbano 👋
+# 👋 Hola, soy Carlos Parriego Urbano
 
-<div align="left">
+### Estudiante de ASIR | Sistemas · Redes · Ciberseguridad · Web
 
-**Estudiante de ASIR & Entusiasta de la Informática**
+Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** y estoy construyendo mi perfil dentro del mundo de la informática.
 
-Soy un joven de 18 años apasionado por la tecnología. Actualmente me estoy formando como **Técnico en Administración de Sistemas Informáticos en Red (ASIR)**. Mi objetivo principal es comprender a fondo cómo funcionan los sistemas, desde la infraestructura de red hasta la optimización del rendimiento.
+Me interesa entender cómo funcionan los sistemas por dentro, cómo se conectan las redes, cómo se protegen los entornos y cómo se pueden crear soluciones útiles con tecnología.
 
-🔭 **Actualmente trabajando en:** Proyectos de administración de redes y desarrollo web básico.
-🌱 **Aprendiendo sobre:** Infraestructura de redes, Hardware y optimización de sistemas.
-🧠 **Filosofía:** Mantener la mente ágil y el cuerpo activo es clave para resolver cualquier desafío técnico.
-💡 **Meta:** Aplicar mis conocimientos técnicos en proyectos creativos.
+No me gusta quedarme solo con la teoría: prefiero **probar, practicar, romper, corregir y aprender**. 🚀
 
 ---
 
-### 🛠️ Intereses Técnicos
+## 🚧 Actualmente estoy trabajando en...
 
-**Sistemas:** Administración y configuración.
-**Redes:** VLANs, Switching, Routing.
-**Hardware:** Montaje y configuración de equipos.
-**Web:** HTML5, CSS3.
+🔹 Mejorar mi base en **sistemas operativos**  
+🔹 Practicar con **redes, VLANs, direccionamiento IPv4 y TCP/IP**  
+🔹 Aprender más sobre **ciberseguridad**  
+🔹 Crear y mejorar proyectos web con **HTML, CSS y JavaScript**  
+🔹 Aplicar lo que aprendo en proyectos reales como **3dAura**
 
 ---
 
-### ⚡ Hobbies e Intereses Personales
+## 🧠 Sobre mí
 
-Cuando no estoy delante de una pantalla configurando redes o programando, me encontrarás disfrutando de mis otras pasiones:
+Me considero una persona:
 
-🏃‍♂️ **Deporte:** Creo firmemente en mens sana in corpore sano.
-🎣 **Pesca:** Paciencia y constancia.
-🌍 **Viajar:** Especialmente visitar lugares históricos como Toledo.
-🌅 **Naturaleza:** Disfrutar de atardeceres y la playa.
+- 🔍 curiosa
+- ✅ responsable
+- 🛠️ resolutiva
+- 📚 con ganas de aprender
+- 🤝 capaz de trabajar en equipo
+- ⚡ con mentalidad de mejora continua
 
-</div>
+Dentro de la informática, me atraen especialmente los **sistemas**, las **redes**, la **ciberseguridad** y el **hardware**.
+
+También me gusta la parte de desarrollo web, porque me permite combinar técnica, diseño y experiencia de usuario.
+
+---
+
+## 🧩 Áreas que estoy trabajando
+
+| Área | Qué estoy aprendiendo |
+|---|---|
+| 🖥️ **Sistemas** | Windows Server, Linux/Ubuntu, administración y configuración |
+| 🌐 **Redes** | LAN, IPv4, subnetting, VLANs, TCP/IP |
+| 🔐 **Ciberseguridad** | Fundamentos, buenas prácticas y protección de entornos |
+| 🧱 **Virtualización** | Máquinas virtuales con Oracle VM VirtualBox |
+| 🗄️ **Bases de datos** | SQL, MySQL y PGAdmin |
+| 🛠️ **Hardware** | Montaje, mantenimiento y configuración de equipos |
+| 🎨 **Web** | HTML, CSS, JavaScript, responsive design |
+
+---
+
+## 🚀 Proyecto destacado: 3dAura
+
+Uno de los proyectos reales en los que estoy trabajando es **3dAura**, una marca relacionada con la **impresión 3D** y productos personalizados.
+
+En este proyecto participo principalmente en la parte web y digital, trabajando en:
+
+- 🎨 diseño y mejora visual de la web
+- 🧭 organización del catálogo y secciones
+- 📱 adaptación responsive para móvil y escritorio
+- 📝 formularios y contenido
+- 🎯 promociones interactivas, como la ruleta de descuentos
+- ⚙️ mejoras de estructura y experiencia de usuario
+
+Gracias a este proyecto estoy aplicando conocimientos de:
+
+```txt
+HTML · CSS · JavaScript · GitHub · Netlify · Responsive Design
